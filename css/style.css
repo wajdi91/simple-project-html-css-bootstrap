@@ -1,0 +1,12 @@
+nav.navbar.navbar-expand-lg.navbar-light.bg-light.special {
+    background: #06895d!important;
+}
+h1.our-block {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:#06895d;
+}
+img.card-img-top.product {
+    height: 200px!important;
+}
